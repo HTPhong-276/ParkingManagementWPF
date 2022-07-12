@@ -1,0 +1,15 @@
+D:\ParkingManagementWPF\ViewModel\bin\Debug\net6.0\_ViewModel.deps.json
+D:\ParkingManagementWPF\ViewModel\bin\Debug\net6.0\_ViewModel.dll
+D:\ParkingManagementWPF\ViewModel\bin\Debug\net6.0\_ViewModel.pdb
+D:\ParkingManagementWPF\ViewModel\bin\Debug\net6.0\_DataAccess.dll
+D:\ParkingManagementWPF\ViewModel\bin\Debug\net6.0\_DataAccess.pdb
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\_ViewModel.csproj.AssemblyReference.cache
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\_ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\_ViewModel.AssemblyInfoInputs.cache
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\_ViewModel.AssemblyInfo.cs
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\_ViewModel.csproj.CoreCompileInputs.cache
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\_ViewModel.csproj.CopyComplete
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\_ViewModel.dll
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\refint\_ViewModel.dll
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\_ViewModel.pdb
+D:\ParkingManagementWPF\ViewModel\obj\Debug\net6.0\ref\_ViewModel.dll

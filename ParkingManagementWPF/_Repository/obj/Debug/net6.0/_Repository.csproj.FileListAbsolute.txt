@@ -1,0 +1,17 @@
+D:\ParkingManagementWPF\_Repository\bin\Debug\net6.0\_Repository.deps.json
+D:\ParkingManagementWPF\_Repository\bin\Debug\net6.0\_Repository.dll
+D:\ParkingManagementWPF\_Repository\bin\Debug\net6.0\_Repository.pdb
+D:\ParkingManagementWPF\_Repository\bin\Debug\net6.0\_DataAccess.dll
+D:\ParkingManagementWPF\_Repository\bin\Debug\net6.0\_ViewModel.dll
+D:\ParkingManagementWPF\_Repository\bin\Debug\net6.0\_DataAccess.pdb
+D:\ParkingManagementWPF\_Repository\bin\Debug\net6.0\_ViewModel.pdb
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\_Repository.csproj.AssemblyReference.cache
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\_Repository.AssemblyInfoInputs.cache
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\_Repository.AssemblyInfo.cs
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\_Repository.csproj.CoreCompileInputs.cache
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\_Repository.csproj.CopyComplete
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\_Repository.dll
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\refint\_Repository.dll
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\_Repository.pdb
+D:\ParkingManagementWPF\_Repository\obj\Debug\net6.0\ref\_Repository.dll
