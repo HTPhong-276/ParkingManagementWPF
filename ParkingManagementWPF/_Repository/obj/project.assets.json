@@ -1813,11 +1813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ParkingManagementWPF\\_Repository\\_Repository.csproj",
+      "projectUniqueName": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\_Repository\\_Repository.csproj",
       "projectName": "_Repository",
-      "projectPath": "D:\\ParkingManagementWPF\\_Repository\\_Repository.csproj",
+      "projectPath": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\_Repository\\_Repository.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\ParkingManagementWPF\\_Repository\\obj\\",
+      "outputPath": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\_Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1834,11 +1834,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj": {
-              "projectPath": "D:\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj"
+            "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj": {
+              "projectPath": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj"
             },
-            "D:\\ParkingManagementWPF\\ViewModel\\_ViewModel.csproj": {
-              "projectPath": "D:\\ParkingManagementWPF\\ViewModel\\_ViewModel.csproj"
+            "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\ViewModel\\_ViewModel.csproj": {
+              "projectPath": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\ViewModel\\_ViewModel.csproj"
             }
           }
         }
