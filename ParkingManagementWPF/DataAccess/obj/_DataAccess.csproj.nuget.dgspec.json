@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj": {}
+    "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj": {
+    "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj",
+        "projectUniqueName": "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj",
         "projectName": "_DataAccess",
-        "projectPath": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\DataAccess\\obj\\",
+        "projectPath": "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

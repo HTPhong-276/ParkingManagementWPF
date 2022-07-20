@@ -12,7 +12,7 @@
         <Style x:Key="MenuButton" TargetType="Button">
             <Setter Property="Margin" Value="0,30"/>
             <Setter Property="Height" Value="50" />
-            <Setter Property="Width" Value="400" />
+            <Setter Property="Width" Value="160" />
             <Setter Property="Cursor" Value="Hand" />
             <Setter Property="Background" Value="#465148"/>
             <Setter Property="Template">
@@ -42,7 +42,7 @@
                 <Label Content="Password:" Width="150" FontSize="22" Margin="50,0" Foreground="White"></Label>
                 <PasswordBox x:Name="txtPassword" Width="400" FontSize="22" VerticalAlignment="Center"></PasswordBox>
             </StackPanel>
-            <Button x:Name="btnLogin" Content="Login" Style="{StaticResource MenuButton}" Foreground="White" FontSize="22" Click="btnLogin_Click"></Button>
+            <Button x:Name="btnLogin" Content="Log in" Style="{StaticResource MenuButton}" Background="#f1c50e" Foreground="White" FontSize="24" FontWeight="Bold" Click="btnLogin_Click"></Button>
         </StackPanel>
     </Grid>
 </Page>

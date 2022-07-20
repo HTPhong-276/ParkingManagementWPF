@@ -13,6 +13,7 @@
     <None Remove="Assets\Picture\busIcon.png" />
     <None Remove="Assets\Picture\carIcon.png" />
     <None Remove="Assets\Picture\feedbackIcon.png" />
+    <None Remove="Assets\Picture\logoutIcon.png" />
     <None Remove="Assets\Picture\pakingBackground.jpg" />
     <None Remove="Assets\Picture\parkingBackground.png" />
     <None Remove="Assets\Picture\parkingIcon.png" />
@@ -33,6 +34,7 @@
     <Resource Include="Assets\Picture\busIcon.png" />
     <Resource Include="Assets\Picture\carIcon.png" />
     <Resource Include="Assets\Picture\feedbackIcon.png" />
+    <Resource Include="Assets\Picture\logoutIcon.png" />
     <Resource Include="Assets\Picture\parkingBackground.png" />
     <Resource Include="Assets\Picture\parkingIcon.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

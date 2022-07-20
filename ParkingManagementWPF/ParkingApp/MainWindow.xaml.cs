@@ -94,5 +94,10 @@ namespace ParkingApp
         {
             instance = null;
         }
+
+        private void btnLogOut_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }

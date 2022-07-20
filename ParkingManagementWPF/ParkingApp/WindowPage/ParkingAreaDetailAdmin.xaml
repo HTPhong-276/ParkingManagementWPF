@@ -68,7 +68,7 @@
 
                         <Label Content="Lot's invoices:" FontSize="18" Margin="0,15,0,0"/>
 
-                        <ListView Name="lvInvoice" Margin="40,20,40,0" BorderThickness="0" SelectionChanged="lvAreaLots_SelectionChanged">
+                        <ListView Name="lvInvoice" Margin="40,20,40,0" BorderThickness="0">
                             <ListView.View>
                                 <GridView>
                                     <GridViewColumn Header="Id" Width="50"

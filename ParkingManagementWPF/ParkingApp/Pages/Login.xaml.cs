@@ -48,6 +48,8 @@ namespace ParkingApp.Pages
                     MainWindow main = MainWindow.Instance;
                     main.LoggedUser = loggedUser;
                     main.Show();
+                    txtUsername.Text = "";
+                    txtPassword.Password = "";
                 }
                 
             }

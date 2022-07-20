@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\ParkingManagementWPF\ParkingApp\obj\Debug\net6.0-windows\
+D:\FPT Courses\PRN221\WPF\ParkingManagementWPF\ParkingManagementWPF\ParkingApp\obj\Debug\net6.0-windows\
 ParkingApp
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\ParkingManagementWPF\ParkingApp\App.xaml
+D:\FPT Courses\PRN221\WPF\ParkingManagementWPF\ParkingManagementWPF\ParkingApp\App.xaml
 13979482950
 
 151140099057
-2171101587035
+217-32192167
 MainWindow.xaml;Pages\AboutUs.xaml;Pages\Default.xaml;Pages\Login.xaml;Pages\ParkingLot.xaml;Pages\Pricing.xaml;Pages\PricingAdmin.xaml;Pages\Register.xaml;Pages\UserInfo.xaml;Pages\UserInfoAdmin.xaml;SignInUpWindow.xaml;WindowPage\ParkingAreaDetail.xaml;WindowPage\ParkingAreaDetailAdmin.xaml;
 
 False

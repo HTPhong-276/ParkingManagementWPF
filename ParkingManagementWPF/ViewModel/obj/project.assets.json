@@ -1789,19 +1789,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\ViewModel\\_ViewModel.csproj",
+      "projectUniqueName": "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\ViewModel\\_ViewModel.csproj",
       "projectName": "_ViewModel",
-      "projectPath": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\ViewModel\\_ViewModel.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\ViewModel\\obj\\",
+      "projectPath": "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\ViewModel\\_ViewModel.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1815,8 +1815,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj": {
-              "projectPath": "D:\\ParkingManagement_WPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj"
+            "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj": {
+              "projectPath": "D:\\FPT Courses\\PRN221\\WPF\\ParkingManagementWPF\\ParkingManagementWPF\\DataAccess\\_DataAccess.csproj"
             }
           }
         }
@@ -1845,7 +1845,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
